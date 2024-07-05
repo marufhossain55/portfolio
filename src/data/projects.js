@@ -25,10 +25,8 @@ const projects = [
       'A Job Portal website developed using Next.js, Tailwinds-Css, firebase and mongodb. user can create and find jobs.',
     image: '/screenshot/project11.jpeg',
     url: 'https://jobzen-15e8e.web.app',
-    githubUrl:
-      'https://github.com/Porgramming-Hero-web-course/b9a11-client-side-marufhossain55',
-    githubUrlServer:
-      'https://github.com/Porgramming-Hero-web-course/b9a11-server-side-marufhossain55',
+    githubUrl: 'https://github.com/marufhossain55/JobZen_client',
+    githubUrlServer: 'https://github.com/marufhossain55/JobZen_server',
     repoType: 'public',
     tags: [
       'HTML',
