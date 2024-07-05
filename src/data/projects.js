@@ -4,10 +4,8 @@ const projects = [
     description:
       'An  website was built using Next.js,JavaScript, mongodb for storing data, and for the design, Tailwind - CSS was used.',
     image: '/screenshot/project10.jpeg',
-    githubUrl:
-      'https://github.com/programming-hero-web-course-4/B9A10-client-side-marufhossain55',
-    githubUrlServer:
-      'https://github.com/programming-hero-web-course-4/b9a10-server-side-marufhossain55',
+    githubUrl: 'https://github.com/marufhossain55/tourism_client',
+    githubUrlServer: 'https://github.com/marufhossain55/tourism_server',
     url: 'https://tourism-auth-2dde7.web.app',
     repoType: 'public',
     tags: [
