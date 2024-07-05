@@ -50,10 +50,8 @@ const projects = [
       'A fitness website for users built using Next.js, React, Tailwinds-Css, firebase and mongodb, node.js,express.js. user can apply for trainer, admin can assign trainer and various fitness classes',
     image: '/screenshot/project12.jpeg',
     url: 'https://bright-custard-f0624f.netlify.app',
-    githubUrl:
-      'https://github.com/programming-hero-web-course1/b9a12-client-side-marufhossain55',
-    githubUrlServer:
-      'https://github.com/programming-hero-web-course1/b9a12-server-side-marufhossain55',
+    githubUrl: 'https://github.com/marufhossain55/activePulse',
+    githubUrlServer: 'https://github.com/marufhossain55/activePulse_server',
     repoType: 'public',
     tags: [
       'HTML',
